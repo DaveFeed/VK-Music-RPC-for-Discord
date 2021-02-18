@@ -1,0 +1,26 @@
+{
+    "en": {
+        "LangName": "English",
+        "Made": "Made by",
+        "VKButtonName": "VK Page",
+        "NoMusic": "No music playing!",
+        "MaybeStatus": "Or the status is turned off!",
+        "ChangeStatus": "Please Change Status",
+        "ChangeWhy": "So the programm can detect the Song",
+        "Errors": "Some errors happened!",
+        "Resolving": "This will be resolved in minutes!",
+        "By": "By"
+    },
+    "ru": {
+        "LangName": "Русский",
+        "Made": "Создано",
+        "VKButtonName": "VK Страница",
+        "NoMusic": "Нету музыки!",
+        "MaybeStatus": "Или Статус отключен!",
+        "ChangeStatus": "Просим изменить Статус",
+        "ChangeWhy": "Чтобы программа смогла найти музыку",
+        "Errors": "Возникли некоторые проблемы!",
+        "Resolving": "Это будет исправлено в эту минуту!",
+        "By": "От"
+    }
+}
