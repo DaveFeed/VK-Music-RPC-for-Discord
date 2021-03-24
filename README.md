@@ -1,8 +1,13 @@
 # VK-Music-RPC-for-Discord
-VK Music RPC for displaying Music and Author
+VK Music RPC for displaying Music and Author.
+Currently supporting 2 languages: English and Russian!<br>
 ![Full size](./pictures/full.png)
+
+## Demonstration In Discord
+Voice Channels:<br>
+![VC](./pictures/vc.png)<br>
+User List:<br>
 ![Side panel](./pictures/side.png)
-![VC](./pictures/vc.png)
 
 ## Instalation
 ### Packing the code yourself
@@ -22,7 +27,7 @@ In first step you need to pass your vk id or your url name. (ex: https://vk.com/
 Second step choose if you want to have a button in rpc, which links to your profile or not
 Third step is to choose language from the list, or leave it blank for english.
 
-After the setup, you are good to go! Just run the main executable when discord app is on.
+After the setup, you are good to go! Just run the main executable when discord app is on.<br>
 ![Console](./pictures/running.png)
 
 ### Possible Error Codes
