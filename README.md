@@ -1,8 +1,8 @@
 # VK-Music-RPC-for-Discord
 VK Music RPC for displaying Music and Author
-!(Full size)[./pictures/full.png]
-!(Side panel)[./pictures/side.png]
-!(VC)[./pictures/vc.png]
+![Full size](./pictures/full.png)
+![Side panel](./pictures/side.png)
+![VC](./pictures/vc.png)
 
 ## Instalation
 ### Packing the code yourself
@@ -15,7 +15,7 @@ VK Music RPC for displaying Music and Author
 You can download the build from realises
 
 ### Using the software
-!(Setup)[./pictures/setup.png]
+![Setup](./pictures/setup.png)
 
 After you got the main executable and setuper, run the setuper.
 In first step you need to pass your vk id or your url name. (ex: https://vk.com/id1234567 or https://vk.com/username)
@@ -23,7 +23,7 @@ Second step choose if you want to have a button in rpc, which links to your prof
 Third step is to choose language from the list, or leave it blank for english.
 
 After the setup, you are good to go! Just run the main executable when discord app is on.
-!(Console)[./pictures/running.png]
+![Console](./pictures/running.png)
 
 ### Possible Error Codes
 - Error code 0: The setup is not done, or is done purely, or the file is damaged. To fix this redo the setup.
