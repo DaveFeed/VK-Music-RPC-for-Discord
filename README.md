@@ -31,7 +31,7 @@ After the setup, you are good to go! Just run the main executable when discord a
 
 ### Possible Error Codes
 - Error code 0: The setup is not done, or is done purely, or the file is damaged.<br>To fix this redo the setup.
-- Error code 1: This is not an error, if it doesn't stop, then there is error with the code, or with the client part.
+- Error code 1: This is not an error, if it doesn't stop, then there is error with the code, or with the client part. (Error 1 can be cased by the VK itself, if it is not usable in the country you are in for example. Thanks to @AlexFiverr1 for finding and mentioning it)
 - Error code 2: The link to account is invalid, or there are server issues.<br>This only happens when server throws >=400 errors
 - Error code 3: Discord is not turned on. You need to turn discord on before running this file.<br>This will be fixed in other versions.
 
